@@ -98,6 +98,4 @@ class App extends Component {
 }
 export default App;
 
-// https://api.github.com/users
-// https://github.com/settings/applications/1268251
-// https://developer.github.com/v3/search/#search-users
+

@@ -21,3 +21,7 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+// https://api.github.com/users
+// https://github.com/settings/applications/1268251
+// https://developer.github.com/v3/search/#search-users
